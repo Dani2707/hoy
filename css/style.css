@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+   
+}
+.container{
+    margin: 10px;
+}
+.caja{
+    border: 10px solid blue;
+}
